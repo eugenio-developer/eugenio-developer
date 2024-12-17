@@ -19,7 +19,9 @@ Quero ser desenvolvedor e professor de tecnologia!
   <img align="center" alt="Eugenio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eugenio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eugenio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="right"   height="120" width="120" src="https://i.picasion.com/pic92/6623439e069a5cb3e80edb5933476efc.gif" />
+  <img align="right" alt="Eugenio-CSS" height="120" width="120" src="https://github.com/user-attachments/assets/6538bcb4-4d7f-4d18-b5b1-3ea256b822c1" />
+
+
   
 </div>
 <hr />
