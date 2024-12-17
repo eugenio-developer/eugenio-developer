@@ -26,7 +26,7 @@ Quero ser desenvolvedor e professor de tecnologia!
 </div>
 <hr />
 <div>
-  <a href="instagram.com/viana.eugenio">
+  <a href="https://instagram.com/viana.eugenio">
     <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
     <a href="https://www.linkedin.com/in/eugenio-developer/">
