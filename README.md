@@ -4,7 +4,7 @@ Quero ser desenvolvedor e professor de tecnologia!
 <a href="https://github.com/eugenio-developer">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=eugenio-developer&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/eugenio-developer">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenio-developer&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
