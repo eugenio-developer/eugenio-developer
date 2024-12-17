@@ -2,10 +2,10 @@
 Quero ser desenvolvedor e professor de tecnologia!
 <hr />
 <a href="https://github.com/eugenio-developer">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=eugenio-developer&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eugenio-developer&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenio-developer&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eugenio-developer&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
